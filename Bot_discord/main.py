@@ -8,7 +8,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="/", intents = intents)
 
-TOKEN = "MTUzNTY3MTIyOTk2NzUwNzUwNg.GJAGEH.GWucnhXdYFfEV92mFeTBDP2aq76HBhGuw9Ajcc"
+TOKEN = "Insertar TOKEN"
 
 @bot.event
 async def on_ready():
