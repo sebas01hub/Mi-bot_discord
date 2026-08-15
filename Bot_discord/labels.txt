@@ -1,0 +1,5 @@
+0 Gafas de seguridad
+1 Chaleco
+2 Guantes
+3 Casco seguridad
+4 Rodilleras
