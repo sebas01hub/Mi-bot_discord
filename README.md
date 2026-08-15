@@ -1,1 +1,1 @@
-# Mi-bot_discord
+# Mi bot de discord, este bot sirve para identificar objetos de seguridad tales como cascos, lentes de seguridad, chalecos, rodilleras y guantes, y te da un porcentaje de que tan seguro esta de que es uno de esos.
